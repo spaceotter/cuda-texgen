@@ -1,0 +1,4 @@
+%compile_commands.json
+%cu --cuda-gpu=sm_61
+%cu --cuda-path=/opt/cuda/
+%cu -I/usr/include/opencv4
