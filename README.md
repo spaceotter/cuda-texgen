@@ -4,4 +4,5 @@ This is a project to perform infinite procedural texture generation and renderin
 
 To build, you will also need OpenCV.
 
-![wave sample](samples/waves.png)
+A poorly smoothed perlin noise sample:
+![perlin noise sample](samples/perlin1.png)
